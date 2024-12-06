@@ -5,7 +5,7 @@
 - 🌱 I’m currently learn programming languages like HTML/CSS, JavaScript, React,Vite,Python,Node.js,MySQL,Figma,Canva,Github.
 - 🌏	 I'm looking to collaborate on my freedomlife.
 - 😄 Pronouns: Keep going ,Never give up,Never stop learning.📖✨
-- 🐳	 Fun fact: Life is not easy.⚡✨
+- 🐳	 Fun fact: Great things never came from comfort zones.⚡
 
 
 <br>
